@@ -260,7 +260,7 @@ input:checked + .slider2:before{
     }
     header{
         display: flex;
-        padding: 104px 523px 275px;
+        padding: 104px 0px 275px;
         width: 100%;
     }
     
