@@ -5,7 +5,6 @@
 - solution URL: https://github.com/Mea22/interactivePricing
 - Live site URL:  https://mea22.github.io/interactivePricing/
 
-
 ### Built With
 
 - HTML
